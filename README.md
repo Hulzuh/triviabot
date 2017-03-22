@@ -47,7 +47,7 @@ Quakenet IRC - #triviabot-dev
 http://webchat.quakenet.org/?channels=triviabot-dev
 
 GitHub Issues/Tickets
-https://github.com/rawsonj/triviabot/issues
+https://github.com/hulzuh/triviabot/issues
 
 
 License:
